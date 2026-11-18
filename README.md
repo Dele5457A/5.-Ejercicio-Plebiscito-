@@ -1,17 +1,15 @@
-# voto_dolores_hidalgo
+<img width="1604" height="914" alt="image" src="https://github.com/user-attachments/assets/6493a068-6a72-471f-8992-c9d8e6f9c562" />
 
-A new Flutter project.
+<img width="1575" height="918" alt="image" src="https://github.com/user-attachments/assets/edae8f09-2710-4edb-af8f-636c52c7102f" />
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+<img width="1583" height="892" alt="image" src="https://github.com/user-attachments/assets/d213c0fa-1379-4684-b949-856b6bd286c6" />
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+<img width="507" height="789" alt="image" src="https://github.com/user-attachments/assets/64b4ce2b-598c-43b3-8e09-649bd2eb7744" />
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+/<img width="510" height="789" alt="image" src="https://github.com/user-attachments/assets/5ea2da6d-a77e-4bf9-b1bd-1720174f5644" />
+
+![Uploading image.png…]()
+
